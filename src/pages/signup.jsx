@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import Input from "../components/Input";
-import RadioInput from "../components/radioInput";
+import RadioInput from "../components/RadioInput";
 import { useForm } from "react-hook-form";
 
 const Signup = () => {
